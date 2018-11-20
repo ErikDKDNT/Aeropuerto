@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\Programacion Net\Aeropuerto\bin\Debug\netcoreapp2.0\Aeropuerto.deps.json
+C:\Users\HP\Documents\Programacion Net\Aeropuerto\bin\Debug\netcoreapp2.0\Aeropuerto.runtimeconfig.json
+C:\Users\HP\Documents\Programacion Net\Aeropuerto\bin\Debug\netcoreapp2.0\Aeropuerto.runtimeconfig.dev.json
+C:\Users\HP\Documents\Programacion Net\Aeropuerto\bin\Debug\netcoreapp2.0\Aeropuerto.dll
+C:\Users\HP\Documents\Programacion Net\Aeropuerto\bin\Debug\netcoreapp2.0\Aeropuerto.pdb
+C:\Users\HP\Documents\Programacion Net\Aeropuerto\obj\Debug\netcoreapp2.0\Aeropuerto.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Programacion Net\Aeropuerto\obj\Debug\netcoreapp2.0\Aeropuerto.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Programacion Net\Aeropuerto\obj\Debug\netcoreapp2.0\Aeropuerto.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Programacion Net\Aeropuerto\obj\Debug\netcoreapp2.0\Aeropuerto.AssemblyInfo.cs
+C:\Users\HP\Documents\Programacion Net\Aeropuerto\obj\Debug\netcoreapp2.0\Aeropuerto.dll
+C:\Users\HP\Documents\Programacion Net\Aeropuerto\obj\Debug\netcoreapp2.0\Aeropuerto.pdb
+C:\Users\HP\Documents\Programacion Net\Aeropuerto\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
